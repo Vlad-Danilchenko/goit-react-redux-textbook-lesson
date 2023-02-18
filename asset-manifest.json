@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-redux-textbook-lesson/static/css/main.aaaf48ca.css",
+    "main.js": "/goit-react-redux-textbook-lesson/static/js/main.7a46a681.js",
+    "index.html": "/goit-react-redux-textbook-lesson/index.html",
+    "main.aaaf48ca.css.map": "/goit-react-redux-textbook-lesson/static/css/main.aaaf48ca.css.map",
+    "main.7a46a681.js.map": "/goit-react-redux-textbook-lesson/static/js/main.7a46a681.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaaf48ca.css",
+    "static/js/main.7a46a681.js"
+  ]
+}
